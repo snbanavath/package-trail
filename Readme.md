@@ -4,7 +4,7 @@ ginore the mistakes if you notice any
 
 here's how you can use this 
 
-
+```
 import React from 'react'
 import {View, Text} from 'react-native'
 
@@ -17,3 +17,5 @@ export default function MyApp(){
         </View>
     );
 }
+
+```
