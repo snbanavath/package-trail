@@ -1,2 +1,2 @@
-import MyComponent from './MyComponent';
-export default MyComponent;
+import Sunil from './MyComponent';
+export default Sunil;

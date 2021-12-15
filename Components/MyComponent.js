@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
-export default function MyComponent(){
+export default function Sunil(){
     return(
         <View style={{backgroundColor: '#d6ffff', justifyContent: 'center', alignItems: 'center'}}>
             <View style={styles.buttonContainer}>
