@@ -9,7 +9,7 @@ import {
 
 export default function MyComponent(){
     return(
-        <View style={{backgroundColor: '#d6ffff',height: '100%', justifyContent: 'center', alignItems: 'center'}}>
+        <View style={{backgroundColor: '#d6ffff', justifyContent: 'center', alignItems: 'center'}}>
             <View style={styles.buttonContainer}>
             <TouchableOpacity style={[styles.button]}><Text>Tab 1</Text></TouchableOpacity>
             <TouchableOpacity style={styles.button}><Text>Tab 2</Text></TouchableOpacity>
