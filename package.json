@@ -6,10 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snbanavath/package-trail.git"
+  },
   "keywords": [
     "Trail",
     "Package"
   ],
   "author": "Sunil naik banavath",
-  "license": "ISC"
+  "license": "ISC",
+  "email": "b.s.n.161557@gmail.com",
+  "url": "https://github.com/snbanavath"
 }
